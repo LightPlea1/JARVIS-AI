@@ -1,0 +1,20 @@
+{
+  "name": "jarvis-ai",
+  "version": "1.0.0",
+  "description": "JARVIS-like AI Assistant using OpenAI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "openai": "^3.0.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
